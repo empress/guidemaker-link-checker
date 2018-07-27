@@ -1,6 +1,6 @@
 {
   "name": "guidemaker-link-checker",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Mocha based testing system for guidemaker source files",
   "main": "index.js",
   "scripts": {
