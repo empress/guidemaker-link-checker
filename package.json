@@ -1,6 +1,6 @@
 {
   "name": "guidemaker-link-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocha based testing system for guidemaker source files",
   "repository": "https://github.com/empress/guidemaker-link-checker",
   "license": "MIT",
