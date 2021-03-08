@@ -2,19 +2,22 @@
   "name": "guidemaker-link-checker",
   "version": "1.0.0",
   "description": "Mocha based testing system for guidemaker source files",
+  "repository": "https://github.com/empress/guidemaker-link-checker",
+  "license": "MIT",
+  "author": "Chris Manson <chris@stonecircle.io>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chris Manson <chris@stonecircle.io>",
-  "license": "ISC",
   "dependencies": {
     "chai": "^4.1.2",
-    "eslint": "^5.2.0",
-    "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-plugin-import": "^2.13.0",
     "markdown-link-extractor": "^1.2.0",
     "require-directory": "^2.1.1",
     "walk-sync": "^0.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
