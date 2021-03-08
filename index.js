@@ -45,7 +45,3 @@ module.exports = () => {
     });
   });
 };
-
-describe('check all links in markdown files', function () {
-
-});
