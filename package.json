@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "chai": "^4.1.2",
-    "markdown-link-extractor": "^1.2.0",
+    "markdown-link-extractor": "^3.0.2",
     "require-directory": "^2.1.1",
     "walk-sync": "^0.3.2"
   },
